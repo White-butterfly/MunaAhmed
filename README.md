@@ -1,24 +1,8 @@
-# Muna Ahmed🤩
+
 
 <h1 align="center">Hi 👋, I'm Muna Ahmed</h1>
-<h3 align="center">A passionate MERN stack developer based in Hargeisa</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.XI8Itf5V4Suq5vxU5Gw0OgHaFj?w=240&h=180&c=7&r=0&o=5&pid=1.7">
+<h3 align="center">A passionate MERN stack developer currently based in Hargeisa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=white-butterfly&label=Profile%20views&color=0e75b6&style=flat" alt="white-butterfly" /> </p>
-
-- 🔭 I’m currently working on **MESAF Project**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [munaahmed.netlify.app/](munaahmed.netlify.app/)
-
-- 📝 I regularly write articles on [https://substack.com/profile/96126826-muna-ahmed?utm_source=user-menu](https://substack.com/profile/96126826-muna-ahmed?utm_source=user-menu)
-
-- 💬 Ask me about **react, node, express, tailwind, mangodb**
-
-- 📫 How to reach me **munaahmed212@yahoo.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
